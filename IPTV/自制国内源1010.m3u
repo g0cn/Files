@@ -1,0 +1,93 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV1
+http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV2
+http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/cctv2/1300000/mnf.m3u8
+#EXTINF:-1 ,CCTV3
+http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/cctv3hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV4
+http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/cctv4/1300000/mnf.m3u8
+#EXTINF:-1 ,CCTV5
+http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV5+
+http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV6
+http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/cctv6hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV7
+http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/cctv7/1300000/mnf.m3u8
+#EXTINF:-1 ,CCTV8
+http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/cctv8hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV9_1
+http://live.v.jxnews.com.cn:5021/live_hls/13/playlist.m3u8
+#EXTINF:-1 ,CCTV9_2
+http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8
+#EXTINF:-1 ,CCTV10
+http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/cctv10hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV11
+http://39.134.65.162/PLTV/88888888/224/3221225517/index.m3u8
+#EXTINF:-1 ,CCTV12
+http://58.211.84.24/liveplay-kk.rtxapp.com/live/program/live/cctv12/1300000/mnf.m3u8
+#EXTINF:-1 ,CCTV13_1
+http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
+#EXTINF:-1 ,CCTV13_2
+http://stream10.fjtv.net/cntv13/sd/live.m3u8?_upt=8704b0c11633883088
+#EXTINF:-1 ,CCTV14
+http://cctvalih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8
+#EXTINF:-1 ,CCTV15
+http://39.134.65.162/PLTV/88888888/224/3221225513/index.m3u8
+#EXTINF:-1 ,CCTV17
+http://cctvalih5ca.v.myalicdn.com/live/cctv17_2/index.m3u8
+#EXTINF:-1 ,CHC家庭影院
+http://120.221.165.62/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8
+#EXTINF:-1 ,浙江卫视
+http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/zjwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,东方卫视
+http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/hddfws/4000000/mnf.m3u8
+#EXTINF:-1 ,江苏卫视
+http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/jswshd/4000000/mnf.m3u8
+#EXTINF:-1 ,安徽卫视
+http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/ahwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,重庆卫视
+http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/cqws/1300000/mnf.m3u8
+#EXTINF:-1 ,北京卫视
+http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,天津卫视
+http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/tjwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/lnwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,江西卫视
+http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/jxwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/hljwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,山东卫视
+http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/sdwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,云南卫视_1
+http://hwzbout.yunshicloud.com/8xughf/e0bx15.m3u8
+#EXTINF:-1 ,云南卫视_2
+http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/ynws/1300000/mnf.m3u8
+#EXTINF:-1 ,四川卫视
+http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/scws/1300000/mnf.m3u8
+#EXTINF:-1 ,南方卫视tvs2上星版
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
+#EXTINF:-1 ,广东卫视
+http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/gdwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,河南卫视
+http://tvcdn.stream3.hndt.com/tv/5f2e8db68d814949a271a03aa4694244_transios/playlist.m3u8?wsSecret=5d7ac86671c2bc48b30b9ce2e37bd2b0&wsTime=1633882779
+#EXTINF:-1 ,深圳卫视
+http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/szwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,湖北卫视
+http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/szwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,TVB明珠台
+http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,TVB高清翡翠台
+http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,TVB翡翠台
+http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=a33ed58766e1d8c980dd30c7-163387330918766&wsIPSercert=04cabe0c88f0e0e0a6824ba68717e32d&wsMonitor=0
+#EXTINF:-1 ,凤凰卫视中文台
+http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8
+#EXTINF:-1 ,香港凤凰卫视资讯台
+http://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8
+#EXTINF:-1 ,湖南电视剧频道
+http://phonetx.qing.mgtv.com/nn_live/nn_x64/cWlkPSZzPTQ1NjExMGUzMGNjZDYwNDRiM2NjMWZmMGZmN2E4ZjFkJmVzPTE2MzM4NzY2NjUmdXVpZD03Yzg0ZDRmYmY0NTdkYjIwMTFkMDg5MThhZGQyOTc5Yi02YTBlYjJhOCZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNDSJMPP360.m3u8
