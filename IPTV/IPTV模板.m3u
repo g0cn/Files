@@ -1,0 +1,149 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/1HD.png" group-title="中央频道",CCTV-1综合
+http://39.134.39.39/PLTV/88888888/224/3221226247/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/2HD.png" group-title="中央频道",CCTV-2财经
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/3HD.png" group-title="中央频道",CCTV-3综艺
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/4HD.png" group-title="中央频道",CCTV-4中文国际
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/4HD.png" group-title="中央频道",CCTV-5体育
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/5+HD.png" group-title="中央频道",CCTV-5+体育赛事
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/6HD.png" group-title="中央频道",CCTV-6电影
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/7HD.png" group-title="中央频道",CCTV-7国防军事
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/8HD.png" group-title="中央频道",CCTV-8电视剧
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/9HD.png" group-title="中央频道",CCTV-9纪录
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/10HD.png" group-title="中央频道",CCTV-10科教
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/11HD.png" group-title="中央频道",CCTV-11戏曲
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/12HD.png" group-title="中央频道",CCTV-12社会与法
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/13HD.png" group-title="中央频道",CCTV-13新闻
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/14HD.png" group-title="中央频道",CCTV-14少儿
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/15HD.png" group-title="中央频道",CCTV-15音乐
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/17HD.png" group-title="中央频道",CCTV-17农村农业
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="中央频道",CGTN 
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中央频道",CCTV4K 
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视频道",辽宁卫视
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视频道",辽宁卫视
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视频道",江西卫视
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视频道",江苏卫视
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视频道",内蒙卫视
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="卫视频道",第一财经
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视频道",湖南卫视
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视频道",湖北卫视
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视频道",吉林卫视
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视频道",宁夏卫视
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视频道",天津卫视
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视频道",深圳卫视
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视频道",重庆卫视
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视频道",浙江卫视
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视频道",深圳卫视
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视频道",山东卫视
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视频道",青海卫视
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视频道",山西卫视
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视频道",东南卫视
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视频道",东方卫视
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视频道",安徽卫视
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视频道",北京卫视
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视频道",河南卫视
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视频道",海南卫视
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视频道",黑龙江卫视
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视频道",广西卫视
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视频道",广东卫视
+
+#EXTINF:-1 tvg-logo="http://pic.downk.cc/item/5e5652f46127cc0713d5e11c.png",CHC高清电影
+
+#EXTINF:-1 tvg-logo="http://pic.downk.cc/item/5e5652f46127cc0713d5e11e.png",CHC家庭影院
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
