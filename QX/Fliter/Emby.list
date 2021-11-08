@@ -2,11 +2,11 @@
 #DOMAIN-SUFFIX,jmsooo.com,Emby
 
 #普拉斯影业
-DOMAIN-SUFFIX,plusmedia.site,Emby
+#DOMAIN-SUFFIX,plusmedia.site,Emby
 #普拉斯影业备用
-DOMAIN,emby.xeton.dev,Emby
-DOMAIN,jellyfin.xeton.dev,Emby
-DOMAIN,movie.xeton.dev,Emby
+#DOMAIN,emby.xeton.dev,Emby
+#DOMAIN,jellyfin.xeton.dev,Emby
+#DOMAIN,movie.xeton.dev,Emby
 
 #终点站
 #DOMAIN-SUFFIX,emby.wtf,Emby
