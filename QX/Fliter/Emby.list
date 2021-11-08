@@ -12,7 +12,7 @@
 #DOMAIN-SUFFIX,emby.wtf,Emby
 
 # otaku NSFW
-#DOMAIN-SUFFIX,otakudrive.life,Emby
+DOMAIN-SUFFIX,otakudrive.life,Emby
 
 # Odyssey+
 DOMAIN-SUFFIX,odysseyplus.site,Emby
