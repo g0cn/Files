@@ -1,5 +1,4 @@
 # 需要直连的Emby线路
 DOMAIN-SUFFIX,emby.wtf
 
-# 后端网址
-DOMAIN,sc.emby.la
+
