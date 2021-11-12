@@ -7,7 +7,7 @@ DOMAIN,emby-cf.plusmedia.site
 # 普拉斯影业备用
 #DOMAIN,emby.xeton.dev
 #DOMAIN,jellyfin.xeton.dev
-#DOMAIN,movie.xeton.dev,Emby
+#DOMAIN,movie.xeton.dev
 
 # 终点站
 #DOMAIN-SUFFIX,emby.wtf
