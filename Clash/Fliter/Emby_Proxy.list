@@ -1,12 +1,5 @@
 # 需要代理的Emby线路
-#DOMAIN,az-ac.emby.la
-#DOMAIN,az-k.emby.la
-#DOMAIN,az-v1.emby.la
-#DOMAIN,az-v1b.emby.la
-#DOMAIN,az-v2.emby.la
-#DOMAIN,az-v2b.emby.la
-#DOMAIN,az-v4.emby.la
-#DOMAIN,az-v4b.emby.la
+
 DOMAIN,dmm.emby.wtf
 DOMAIN,dmm.emby.la
 DOMAIN,lei.emby.la
