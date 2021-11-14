@@ -16,7 +16,7 @@ DOMAIN,emby-cf.plusmedia.site
 DOMAIN-SUFFIX,otakudrive.life
 
 # Odyssey+
-DOMAIN-SUFFIX,odysseyplus.site
+#DOMAIN-SUFFIX,odysseyplus.site
 
 #pornemby
 DOMAIN-SUFFIX,pornemby.club
