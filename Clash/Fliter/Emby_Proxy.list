@@ -3,8 +3,8 @@
 DOMAIN,dmm.emby.wtf
 DOMAIN,dmm.emby.la
 DOMAIN,lei.emby.la
-DOMAIN,emby-cf.plusmedia.site
+DOMAIN-SUFFIX,plusmedia.site
 DOMAIN-SUFFIX,pornemby.club
-#DOMAIN-SUFFIX,odysseyplus.site
 DOMAIN-SUFFIX,otakudrive.life
 
+#DOMAIN-SUFFIX,odysseyplus.site
