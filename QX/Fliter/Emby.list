@@ -1,27 +1,26 @@
-# 卷毛鼠
-#DOMAIN-SUFFIX,jmsooo.com
-
 
 DOMAIN,dmm.emby.wtf
 DOMAIN,dmm.emby.la
 DOMAIN,lei.emby.la
 
 # 普拉斯影业
-#DOMAIN-SUFFIX,plusmedia.site
-DOMAIN,emby-cf.plusmedia.site
-# 普拉斯影业备用
-#DOMAIN,emby.xeton.dev
-#DOMAIN,jellyfin.xeton.dev
-#DOMAIN,movie.xeton.dev
-
-# 终点站
-#DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,plusmedia.site
 
 # otaku NSFW
 DOMAIN-SUFFIX,otakudrive.life
 
+#pornemby
+DOMAIN-SUFFIX,pornemby.club
+
 # Odyssey+
 #DOMAIN-SUFFIX,odysseyplus.site
 
-#pornemby
-DOMAIN-SUFFIX,pornemby.club
+# 普拉斯影业备用
+#DOMAIN,emby-cf.plusmedia.site
+
+#DOMAIN,emby.xeton.dev
+#DOMAIN,jellyfin.xeton.dev
+#DOMAIN,movie.xeton.dev
+
+# 卷毛鼠
+#DOMAIN-SUFFIX,jmsooo.com
