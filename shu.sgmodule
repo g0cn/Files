@@ -1,9 +1,0 @@
-#!name=shu-ipa
-#!desc=shu安装ipa
-#!system=ios
-
-[URL Rewrite]
-^https?:\/\/app\.bilibili\.com\/install\/ipa http://127.0.0.1 307
-
-[MITM]
-hostname = %APPEND% a*.bilibili.com
