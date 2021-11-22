@@ -3,8 +3,8 @@
 #!system=ios
 
 [Script]
-type=http-response,requires-body=true,pattern=\/emby\/Users\/\w{32}\/Items\/\d+\? ,script-path=https://raw.githubusercontent.com/ZhipengRen/Quantumult/dev/emby/emby-plugin.js
-type=http-response,pattern=^https?:\/\/app\.bilibili\.com\/empy\/plugin ,script-path=https://raw.githubusercontent.com/ZhipengRen/Quantumult/dev/emby/emby-plugin.js
+type=http-response,requires-body=true,pattern=\/emby\/Users\/\w{32}\/Items\/\d+\?,script-path=https://raw.githubusercontent.com/ZhipengRen/Quantumult/dev/emby/emby-plugin.js
+type=http-response,pattern=^https?:\/\/app\.bilibili\.com\/empy\/plugin,script-path=https://raw.githubusercontent.com/ZhipengRen/Quantumult/dev/emby/emby-plugin.js
 
 [MITM]
 hostname = %APPEND% app.bilibili.com
