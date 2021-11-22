@@ -1,5 +1,5 @@
 #!name=Emby-Plugin
-#!desc=Emby调用播放器
+#!desc=Emby调用播放器from-rartv/R
 #!system=ios
 
 [URL Rewrite]
