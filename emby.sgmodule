@@ -3,7 +3,7 @@
 #!system=ios
 
 [Script]
-type=http-response,requires-body=1,pattern=\/emby\/Users\/\w{32}\/Items\/\d+\? ,script-path=https://raw.githubusercontent.com/ZhipengRen/Quantumult/dev/emby/emby-plugin.js
+type=http-response-body,requires-body=1,pattern=\/emby\/Users\/\w{32}\/Items\/\d+\? ,script-path=https://raw.githubusercontent.com/ZhipengRen/Quantumult/dev/emby/emby-plugin.js
 type=http-response-header,requires-body=1,pattern=^https?://app\.bilibili\.com\/empy\/plugin ,script-path=https://raw.githubusercontent.com/ZhipengRen/Quantumult/dev/emby/emby-plugin.js
 
 [MITM]
