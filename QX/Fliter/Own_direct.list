@@ -1,0 +1,11 @@
+#emby
+host-suffix, emby.wtf, direct
+host-suffix, emby.gg, direct
+host-suffix, ssky.me, direct
+host-suffix, aaa.ax, direct
+#other
+host, ibeta.me, direct
+host-keyword, plex, direct
+host-keyword, bitwarden, direct
+host-suffix, nfmovies.com, direct
+
