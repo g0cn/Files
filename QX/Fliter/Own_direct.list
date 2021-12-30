@@ -1,8 +1,8 @@
 #emby
 host-suffix, emby.wtf
 host-suffix, emby.gg
-host-suffix, ssky.me
-host-suffix, aaa.ax
+#host-suffix, ssky.me
+#host-suffix, aaa.ax
 #other
 host, ibeta.me
 host-keyword, plex
