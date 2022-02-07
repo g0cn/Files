@@ -1,5 +1,6 @@
-#重写UA为ipad来达到无需登录效果
-
+/*
+重写UA为ipad来达到无需登录效果
+*/
 
 (function () {
   const headers = $response.headers;
