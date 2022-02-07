@@ -1,4 +1,4 @@
-#知乎直接看不需要登陆，通过改变useragent
+#通过改变useragent来达到知乎直接看不需要登陆的效果
 
 
 (function () {
