@@ -1,4 +1,4 @@
-#通过改变useragent来达到知乎直接看不需要登陆的效果
+#重写UA为ipad,达到无需登录效果
 
 
 (function () {
