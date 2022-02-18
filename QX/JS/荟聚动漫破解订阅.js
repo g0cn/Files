@@ -1,7 +1,7 @@
 /*
 [rewrite_local]
 # 苹果收据验证 
-^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body verify_receipt.js
+^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://gitlab.com/api/v4/projects/33834676/repository/files/Scripts%2Fverify_receipt.js/raw?ref=main&private_token=glpat-twy3wPUahCyRvg79c3VR
 [mitm]
 hostname = buy.itunes.apple.com
 
