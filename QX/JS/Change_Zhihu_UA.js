@@ -1,5 +1,8 @@
 /*
 重写UA
+
+[mitm]
+
 hostname = www.zhihu.com
 */
 
