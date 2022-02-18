@@ -1,3 +1,16 @@
+/*
+[rewrite_local]
+# 苹果收据验证 
+^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body verify_receipt.js
+[mitm]
+hostname = buy.itunes.apple.com
+
+*/
+
+
+
+
+
 let body = $response.body;
 console.log(body);
 var obj = JSON.parse(body);
