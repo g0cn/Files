@@ -6,6 +6,12 @@
 * $request.url, $notify(title, subtitle, message), console.log(message), $done(response)
 *
 * @supported Quantumult X (v1.0.3-build141)
+
+[rewrite_loacl]
+#emby破解 orz
+^https:\/\/mb3admin\.com\/admin\/service(\/registration\/validateDevice|\/appstore\/register|\/registration\/validate|\/registration\/getStatus|\/supporter\/retrievekey) url script-echo-response https://raw.githubusercontent.com/xx-xy/Files/master/QX/JS/emby_q.js
+[mitm]
+hostname = mb3admin.com
 */
 var url = $request.url;
 
