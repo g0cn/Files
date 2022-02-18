@@ -3,7 +3,7 @@
 [rewrite_local]
 
 #重写UA
-^https:\/\/www\.zhihu\.com\/.* url script-response-body https://gist.githubusercontent.com/coolzjy/9cfab4bf2e00a42c8dd9e368ab323534/raw/8c3fbf137015869b9c86e69f5bfc002eee228a95/change-zhihu-user-agent.js
+^https:\/\/www\.zhihu\.com\/.* url script-response-body https://raw.githubusercontent.com/xx-xy/Files/master/QX/JS/Change_Zhihu_UA.js
 
 [mitm]
 
