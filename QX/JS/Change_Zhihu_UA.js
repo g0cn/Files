@@ -1,9 +1,13 @@
 /*
-重写UA
+
+[rewrite_local]
+
+#重写UA
+^https:\/\/www\.zhihu\.com\/.* - script-response-body https://gist.githubusercontent.com/coolzjy/9cfab4bf2e00a42c8dd9e368ab323534/raw/8c3fbf137015869b9c86e69f5bfc002eee228a95/change-zhihu-user-agent.js
 
 [mitm]
 
-hostname = www.zhihu.com
+hostname=www.zhihu.com
 */
 
 (function () {
