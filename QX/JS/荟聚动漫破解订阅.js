@@ -1,7 +1,8 @@
 /*
 [rewrite_local]
 # 苹果收据验证 
-^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://gitlab.com/api/v4/projects/33834676/repository/files/Scripts%2Fverify_receipt.js/raw?ref=main&private_token=glpat-twy3wPUahCyRvg79c3VR
+^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/xx-xy/Files/master/QX/JS/%E8%8D%9F%E8%81%9A%E5%8A%A8%E6%BC%AB%E7%A0%B4%E8%A7%A3%E8%AE%A2%E9%98%85.js
+#https://gitlab.com/api/v4/projects/33834676/repository/files/Scripts%2Fverify_receipt.js/raw?ref=main&private_token=glpat-twy3wPUahCyRvg79c3VR
 [mitm]
 hostname = buy.itunes.apple.com
 
