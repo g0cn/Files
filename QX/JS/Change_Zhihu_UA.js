@@ -1,5 +1,6 @@
 /*
 重写UA
+hostname = www.zhihu.com
 */
 
 (function () {
