@@ -1,5 +1,4 @@
 /*
-
 [rewrite_local]
 # ～ filebox crack
 ^https?:\/\/api\.revenuecat\.com\/v\d\/subscribers\/(\$RCAnonymousID\%)?(\w)+$ url script-echo-response filebox.js
