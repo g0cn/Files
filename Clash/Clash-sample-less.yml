@@ -17,7 +17,7 @@ proxy-providers:
   名字:
     type: http
     url: 机场订阅
-    interval: 3600
+    interval: 86400 #更新间隔一天
     path: ./名字.yaml
     health-check:
       enable: true
@@ -26,7 +26,6 @@ proxy-providers:
 
 proxy-groups:
 
-
   - name: 🚀 Proxy
     type: select
     use:
@@ -34,9 +33,7 @@ proxy-groups:
     proxies:
       - DIRECT
 
-
 rules:
-
   - IP-CIDR,192.168.0.0/16,DIRECT
   - IP-CIDR,10.0.0.0/8,DIRECT
   - IP-CIDR,172.16.0.0/12,DIRECT
