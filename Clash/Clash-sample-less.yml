@@ -5,7 +5,7 @@ mode: Rule
 log-level: info
 external-controller: :9090
 
-hosts:
+hosts:#需要开启tun模式
   'mtalk.google.com': 108.177.125.188
   'dl.google.com': 180.163.151.161
   'dl.l.google.com': 180.163.151.161
