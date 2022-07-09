@@ -31,8 +31,8 @@ proxy-groups:
     use:
       - 名字
     proxies:
-      - DIRECT
-
+      - 自定义设置其他需要的策略组
+      - 自定义设置...
 rules:
   - IP-CIDR,192.168.0.0/16,DIRECT
   - IP-CIDR,10.0.0.0/8,DIRECT
